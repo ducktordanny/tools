@@ -86,3 +86,25 @@ sudo apt install code
 
 It can be found in `settings.json`.
 
+## Other
+
+### Tweaks
+
+Install it from the Ubuntu Software
+
+Setting titlebar buttons to the left in Window Titlebars > Titlebar Buttons >
+Placement -> left
+
+### dconf Editor
+
+```sh
+sudo apt -y install dconf-editor
+```
+
+Customizing the doc: org > gnome > shell > extensions > dash-to-dock
+
+-   extend-height -> false
+-   dock-position -> BOTTOM
+-   transparency-mode -> FIXED
+-   unity-backlit-items -> true
+
