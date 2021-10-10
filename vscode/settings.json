@@ -1,1 +1,85 @@
-
+{
+	"terminal.integrated.rendererType": "dom",
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "Drama Sans",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 20,
+	"editor.cursorWidth": 2,
+	"js-ts-biscuits.annotationColor": "red",
+	"html-biscuits.annotationColor": "red",
+	"js-ts-biscuits.annotationPrefix": " -> ",
+	"html-biscuits.annotationPrefix": " 🐣",
+	"workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+	"json-biscuits.annotationPrefix": "🦆",
+	"json-biscuits.annotationColor": "turquoise",
+	"css-biscuits.annotationPrefix": "    👀   ",
+	"css-biscuits.annotationColor": "yellow",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"discord.lowerDetailsEditing": "",
+	"discord.lowerDetailsDebugging": "",
+	"discord.detailsEditing": "Line {current_line}",
+	"discord.detailsDebugging": "Line {current_line}",
+	"markdown-preview-enhanced.liveUpdate": false,
+	"background.enabled": true,
+	"background.loop": false,
+	"background.useDefault": false,
+	"background.useFront": false,
+	"background.style": {
+		"content": "''",
+		"pointer-events": "none",
+		// "position": "absolute",
+		"z-index": "99999",
+		"width": "100%",
+		"height": "100%",
+		"background-position": "center center",
+		"background-size": "cover",
+		"background-repeat": "no-repeat",
+		"opacity": 0.15
+	},
+	"background.customImages": [
+		"./<path_of_your_image>"
+	],
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"editor.semanticTokenColorCustomizations": null,
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#50818d",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#50818d",
+		"titleBar.inactiveForeground": "#cccccc",
+		"activityBar.background": "#50818d",
+		"activityBar.inactiveForeground": "#cccccc",
+		"activityBar.activeBackground": "#254f52",
+		"activityBar.activeBorder": "#ffffff",
+		// Status bar when a folder or workspace is active
+		"statusBar.background": "#243e5c",
+		"statusBar.foreground": "#ffffff",
+		// Status bar when VSCode is in debugging mode
+		"statusBar.debuggingBackground": "#243e5c",
+		"statusBar.debuggingForeground": "#ffffff",
+		// Status bar when no folder or workspace has been opened.
+		"statusBar.noFolderBackground": "#b6c5ca",
+		"statusBar.noFolderForeground": "#000000"
+	},
+	"discord.removeLowerDetails": true,
+	"editor.tabSize": 2,
+	"editor.cursorStyle": "block",
+	"editor.cursorBlinking": "solid",
+	"powermode.enabled": true,
+	"powermode.enableShake": false,
+	"powermode.maxExplosions": 1,
+	"powermode.explosionFrequency": 4,
+	"markdown-preview-enhanced.previewTheme": "atom-dark.css"
+}
