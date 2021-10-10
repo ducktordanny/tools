@@ -35,6 +35,15 @@ Install yarn
 npm install --global yarn
 ```
 
+### Insomnia
+
+For testing APIs install insomnia. ([From
+here](https://updates.insomnia.rest/downloads/ubuntu/latest?&app=com.insomnia.app&source=website))
+
+### Ulauncher
+
+[Download from here](https://ulauncher.io/#Download)
+
 ### Powerlevel10k
 
 Install zsh
