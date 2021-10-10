@@ -93,7 +93,7 @@ sudo apt install code
 
 ### Settings
 
-It can be found in `settings.json`.
+It can be found in `./vscode/settings.json`.
 
 ## Other
 
@@ -105,6 +105,8 @@ Setting titlebar buttons to the left in Window Titlebars > Titlebar Buttons >
 Placement -> left
 
 ### dconf Editor
+
+Use it carefully!
 
 ```sh
 sudo apt -y install dconf-editor
