@@ -36,9 +36,54 @@ Yarn
 npm install --global yarn
 ```
 
-### Visual Studio Code
+## Visual Studio Code
+
+### Install
 
 ```sh
 brew install --cask visual-studio-code
 ```
+
+### Font
+
+[Download font from here](https://drama-sans.github.io/drama-sans/DramaSans.ttf)
+
+### Extensions
+
+-   Angular Language Service
+-   Better Comments
+-   Bracket Pair Colorizer
+-   colorize
+-   ES7 React/Redux/GraphQL/React-Native snippets
+-   Simple React Snippets
+-   ESLint
+-   Prettier - Code formatter
+-   HTML Biscuits
+-   indent-rainbow
+-   Live Share
+-   Markdown Preview Enhanced
+-   PostCSS Language Support
+-   Power Mode
+-   Pylance
+-   Tailwind CSS IntelliSense
+-   Community Material Theme (Ocean High Contrast)
+-   background
+
+### Settings
+
+It can be found in `./vscode/settings.json`.
+
+## Other
+
+### Time Out - Break Reminders
+
+> It doesn't let you sit all day and reminds you to take breaks
+
+[Download from here](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
+
+### Yoink
+
+> Helps you holding files in front of you when
+
+You can take a look at it [here](https://www.yoink.app/).
 
