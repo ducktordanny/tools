@@ -93,3 +93,9 @@ You can take a look at it [here](https://www.yoink.app/).
 
 [Download from here](https://bjango.com/mac/istatmenus/)
 
+### Karabiner-Elements
+
+> With this you can modify your keyboard layout
+
+[Download from here](https://karabiner-elements.pqrs.org/)
+
