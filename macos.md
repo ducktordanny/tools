@@ -87,3 +87,9 @@ It can be found in `./vscode/settings.json`.
 
 You can take a look at it [here](https://www.yoink.app/).
 
+### iStat Menus
+
+> It gives you a better look in the top bar and gives you informations like performance
+
+[Download from here](https://bjango.com/mac/istatmenus/)
+
