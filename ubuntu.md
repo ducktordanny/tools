@@ -54,6 +54,11 @@ sudo apt -y install zsh
 
 [Installation Guide](https://github.com/romkatv/powerlevel10k)
 
+### Cheat and Cheatsheets
+
+[Installation guide](https://kifarunix.com/install-cheat-command-on-ubuntu-20-04/)
+Github repos: [Cheat](https://github.com/cheat/cheat) and [Cheatsheets](https://github.com/cheat/cheatsheets)
+
 ## Visual Studio Code
 
 ### Install
@@ -72,24 +77,24 @@ sudo apt install code
 
 ### Extensions
 
--   Angular Language Service
--   Better Comments
--   Bracket Pair Colorizer
--   colorize
--   ES7 React/Redux/GraphQL/React-Native snippets
--   Simple React Snippets
--   ESLint
--   Prettier - Code formatter
--   HTML Biscuits
--   indent-rainbow
--   Live Share
--   Markdown Preview Enhanced
--   PostCSS Language Support
--   Power Mode
--   Pylance
--   Tailwind CSS IntelliSense
--   Community Material Theme (Ocean High Contrast)
--   background
+- Angular Language Service
+- Better Comments
+- Bracket Pair Colorizer
+- colorize
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Simple React Snippets
+- ESLint
+- Prettier - Code formatter
+- HTML Biscuits
+- indent-rainbow
+- Live Share
+- Markdown Preview Enhanced
+- PostCSS Language Support
+- Power Mode
+- Pylance
+- Tailwind CSS IntelliSense
+- Community Material Theme (Ocean High Contrast)
+- background
 
 ### Settings
 
@@ -114,8 +119,7 @@ sudo apt -y install dconf-editor
 
 Customizing the doc: org > gnome > shell > extensions > dash-to-dock
 
--   extend-height -> false
--   dock-position -> BOTTOM
--   transparency-mode -> FIXED
--   unity-backlit-items -> true
-
+- extend-height -> false
+- dock-position -> BOTTOM
+- transparency-mode -> FIXED
+- unity-backlit-items -> true

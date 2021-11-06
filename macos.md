@@ -36,6 +36,16 @@ Yarn
 npm install --global yarn
 ```
 
+### Cheat
+
+Install:
+
+```sh
+brew install cheat
+```
+
+Github repo: [github.com/cheat/cheat](https://github.com/cheat/cheat)
+
 ## Visual Studio Code
 
 ### Install
@@ -50,24 +60,24 @@ brew install --cask visual-studio-code
 
 ### Extensions
 
--   Angular Language Service
--   Better Comments
--   Bracket Pair Colorizer
--   colorize
--   ES7 React/Redux/GraphQL/React-Native snippets
--   Simple React Snippets
--   ESLint
--   Prettier - Code formatter
--   HTML Biscuits
--   indent-rainbow
--   Live Share
--   Markdown Preview Enhanced
--   PostCSS Language Support
--   Power Mode
--   Pylance
--   Tailwind CSS IntelliSense
--   Community Material Theme (Ocean High Contrast)
--   background
+- Angular Language Service
+- Better Comments
+- Bracket Pair Colorizer
+- colorize
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Simple React Snippets
+- ESLint
+- Prettier - Code formatter
+- HTML Biscuits
+- indent-rainbow
+- Live Share
+- Markdown Preview Enhanced
+- PostCSS Language Support
+- Power Mode
+- Pylance
+- Tailwind CSS IntelliSense
+- Community Material Theme (Ocean High Contrast)
+- background
 
 ### Settings
 
@@ -98,4 +108,3 @@ You can take a look at it [here](https://www.yoink.app/).
 > With this you can modify your keyboard layout
 
 [Download from here](https://karabiner-elements.pqrs.org/)
-
