@@ -108,3 +108,16 @@ You can take a look at it [here](https://www.yoink.app/).
 > With this you can modify your keyboard layout
 
 [Download from here](https://karabiner-elements.pqrs.org/)
+
+### Alfred
+
+> It's similar to spotlight, but it might be a bit better (in performance as well)
+
+[Download from here](https://www.alfredapp.com/)
+
+### Time Out
+
+> If you always forget to take a break then it's a great app what reminds you to maybe stand up
+
+[Download from here](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
+
