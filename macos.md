@@ -46,6 +46,22 @@ brew install cheat
 
 Github repo: [github.com/cheat/cheat](https://github.com/cheat/cheat)
 
+## WebStorm
+
+### Download
+
+[From toolbox](https://www.jetbrains.com/toolbox-app/)
+
+### Plugins
+
+- Wallaby
+- Material Theme UI (Darker Themes > Oceanic Theme)
+- Atom Material Icons
+- Rainbow Brackets
+- Indent Rainbow
+- Prettier
+- etc. (automatically added)
+
 ## Visual Studio Code
 
 ### Install
@@ -93,7 +109,7 @@ It can be found in `./vscode/settings.json`.
 
 ### Yoink
 
-> Helps you holding files in front of you when
+> Helps you holding files in front of you while messing around
 
 You can take a look at it [here](https://www.yoink.app/).
 

@@ -59,6 +59,22 @@ sudo apt -y install zsh
 [Installation guide](https://kifarunix.com/install-cheat-command-on-ubuntu-20-04/)
 Github repos: [Cheat](https://github.com/cheat/cheat) and [Cheatsheets](https://github.com/cheat/cheatsheets)
 
+## WebStorm
+
+### Download
+
+[From toolbox](https://www.jetbrains.com/toolbox-app/)
+
+### Plugins
+
+- Wallaby
+- Material Theme UI (Darker Themes > Oceanic Theme)
+- Atom Material Icons
+- Rainbow Brackets
+- Indent Rainbow
+- Prettier
+- etc. (automatically added)
+
 ## Visual Studio Code
 
 ### Install
