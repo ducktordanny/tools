@@ -73,7 +73,7 @@ sudo apt install code
 
 ### Font
 
-[Download font from here](https://drama-sans.github.io/drama-sans/DramaSans.ttf)
+[Download font from here](https://www.jetbrains.com/lp/mono/)
 
 ### Extensions
 

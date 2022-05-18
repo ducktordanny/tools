@@ -56,7 +56,7 @@ brew install --cask visual-studio-code
 
 ### Font
 
-[Download font from here](https://drama-sans.github.io/drama-sans/DramaSans.ttf)
+[Download font from here](https://www.jetbrains.com/lp/mono/)
 
 ### Extensions
 
@@ -120,4 +120,3 @@ You can take a look at it [here](https://www.yoink.app/).
 > If you always forget to take a break then it's a great app what reminds you to maybe stand up
 
 [Download from here](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
-
