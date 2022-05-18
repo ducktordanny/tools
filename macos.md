@@ -101,6 +101,14 @@ It can be found in `./vscode/settings.json`.
 
 ## Other
 
+### iTerm2
+
+[Download from here](https://iterm2.com/downloads.html)
+
+### Powerlevel10k
+
+[Installation Guide](https://github.com/romkatv/powerlevel10k)
+
 ### Time Out - Break Reminders
 
 > It doesn't let you sit all day and reminds you to take breaks
