@@ -75,6 +75,10 @@ Github repos: [Cheat](https://github.com/cheat/cheat) and [Cheatsheets](https://
 - Prettier
 - etc. (automatically added)
 
+### Background
+
+> Can be found in the `./webstorm-background.webp` file
+
 ## Visual Studio Code
 
 ### Install
