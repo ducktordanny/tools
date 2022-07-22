@@ -46,26 +46,6 @@ brew install cheat
 
 Github repo: [github.com/cheat/cheat](https://github.com/cheat/cheat)
 
-## WebStorm
-
-### Download
-
-[From toolbox](https://www.jetbrains.com/toolbox-app/)
-
-### Plugins
-
-- Wallaby
-- Material Theme UI (Darker Themes > Oceanic Theme)
-- Atom Material Icons
-- Rainbow Brackets
-- Indent Rainbow
-- Prettier
-- etc. (automatically added)
-
-### Background
-
-> Can be found in the `./webstorm-background.webp` file
-
 ## Visual Studio Code
 
 ### Install
@@ -102,6 +82,35 @@ brew install --cask visual-studio-code
 ### Settings
 
 It can be found in `./vscode/settings.json`.
+
+## WebStorm
+
+[From toolbox](https://www.jetbrains.com/toolbox-app/)
+
+### Extensions
+
+- Material Theme UI (Darker Themes > Oceanic Theme)
+- Power Mode II
+- Rainbow Brackets
+- Wallaby
+- Prettier
+- Indent Rainbow
+- Atom Material Icons
+
+### Custom Keymaps
+
+> There might be some of them, but the most used of them are here
+
+- Move caret to page bottom: ⌥⌘↓
+- Move caret to page top: ⌥⌘↑
+- Navigate > Back: ⌘[
+- Navigate > Forward: ⌘]
+- Select next tab: ⌥⌘→
+- Select previous tab: ⌥⌘←
+
+### Background
+
+> Most of the pictures that I use can be found in the `./images` folder
 
 ## Other
 
@@ -142,9 +151,3 @@ You can take a look at it [here](https://www.yoink.app/).
 > It's similar to spotlight, but it might be a bit better (in performance as well)
 
 [Download from here](https://www.alfredapp.com/)
-
-### Time Out
-
-> If you always forget to take a break then it's a great app what reminds you to maybe stand up
-
-[Download from here](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
