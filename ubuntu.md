@@ -59,26 +59,6 @@ sudo apt -y install zsh
 [Installation guide](https://kifarunix.com/install-cheat-command-on-ubuntu-20-04/)
 Github repos: [Cheat](https://github.com/cheat/cheat) and [Cheatsheets](https://github.com/cheat/cheatsheets)
 
-## WebStorm
-
-### Download
-
-[From toolbox](https://www.jetbrains.com/toolbox-app/)
-
-### Plugins
-
-- Wallaby
-- Material Theme UI (Darker Themes > Oceanic Theme)
-- Atom Material Icons
-- Rainbow Brackets
-- Indent Rainbow
-- Prettier
-- etc. (automatically added)
-
-### Background
-
-> Can be found in the `./webstorm-background.webp` file
-
 ## Visual Studio Code
 
 ### Install
@@ -90,35 +70,6 @@ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add
 sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 sudo apt install code
 ```
-
-### Font
-
-[Download font from here](https://www.jetbrains.com/lp/mono/)
-
-### Extensions
-
-- Angular Language Service
-- Better Comments
-- Bracket Pair Colorizer
-- colorize
-- ES7 React/Redux/GraphQL/React-Native snippets
-- Simple React Snippets
-- ESLint
-- Prettier - Code formatter
-- HTML Biscuits
-- indent-rainbow
-- Live Share
-- Markdown Preview Enhanced
-- PostCSS Language Support
-- Power Mode
-- Pylance
-- Tailwind CSS IntelliSense
-- Community Material Theme (Ocean High Contrast)
-- background
-
-### Settings
-
-It can be found in `./vscode/settings.json`.
 
 ## Other
 
@@ -143,3 +94,7 @@ Customizing the doc: org > gnome > shell > extensions > dash-to-dock
 - dock-position -> BOTTOM
 - transparency-mode -> FIXED
 - unity-backlit-items -> true
+
+## General
+
+> Some other useful settings and tools that I'm using, but not really related to any specific OS: [here](./general.md).

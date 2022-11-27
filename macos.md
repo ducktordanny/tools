@@ -46,58 +46,13 @@ brew install cheat
 
 Github repo: [github.com/cheat/cheat](https://github.com/cheat/cheat)
 
-## Visual Studio Code
-
-### Install
+### Visual Studio Code
 
 ```sh
 brew install --cask visual-studio-code
 ```
 
-### Font
-
-[Download font from here](https://www.jetbrains.com/lp/mono/)
-
-### Extensions
-
-- Angular Language Service
-- Better Comments
-- Bracket Pair Colorizer
-- colorize
-- ES7 React/Redux/GraphQL/React-Native snippets
-- Simple React Snippets
-- ESLint
-- Prettier - Code formatter
-- HTML Biscuits
-- indent-rainbow
-- Live Share
-- Markdown Preview Enhanced
-- PostCSS Language Support
-- Power Mode
-- Pylance
-- Tailwind CSS IntelliSense
-- Community Material Theme (Ocean High Contrast)
-- background
-
-### Settings
-
-It can be found in `./vscode/settings.json`.
-
-## WebStorm
-
-[From toolbox](https://www.jetbrains.com/toolbox-app/)
-
-### Extensions
-
-- Material Theme UI (Darker Themes > Oceanic Theme)
-- Power Mode II
-- Rainbow Brackets
-- Wallaby
-- Prettier
-- Indent Rainbow
-- Atom Material Icons
-
-### Custom Keymaps
+## Webstorm Custom Keymaps
 
 > There might be some of them, but the most used of them are here
 
@@ -108,10 +63,6 @@ It can be found in `./vscode/settings.json`.
 - Select next tab: ⌥⌘→
 - Select previous tab: ⌥⌘←
 
-### Background
-
-> Most of the pictures that I use can be found in the `./images` folder
-
 ## Other
 
 ### iTerm2
@@ -121,6 +72,12 @@ It can be found in `./vscode/settings.json`.
 ### Powerlevel10k
 
 [Installation Guide](https://github.com/romkatv/powerlevel10k)
+
+### Warp
+
+> It's a new fancy Mac OS terminal, still in beta, but have lots of nice features.
+
+[Download from here](https://www.warp.dev/)
 
 ### Time Out - Break Reminders
 
@@ -151,3 +108,7 @@ You can take a look at it [here](https://www.yoink.app/).
 > It's similar to spotlight, but it might be a bit better (in performance as well)
 
 [Download from here](https://www.alfredapp.com/)
+
+## General
+
+> Some other useful settings and tools that I'm using, but not really related to any specific OS: [here](./general.md).
