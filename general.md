@@ -12,6 +12,32 @@
 
 [Download font from here](https://www.jetbrains.com/lp/mono/)
 
+## NeoVim
+
+My NeoVim configuration that I'm using currently can be found in the following repository: [ducktordanny/nvim-config](https://github.com/ducktordanny/nvim-config)
+
+```sh
+# install neovim for example on mac os
+brew install neovim
+
+# install ripgrep since it will be needed for telescope
+brew install ripgrep
+
+cd ~/.config/nvim # you may need to create this folder
+git clone git@github.com:ducktordanny/nvim-config.git .
+```
+
+It uses lazy.nvim to manage the plugins, and just to mention some of the plugins that I'm using to give a hint:
+
+- nvim-treesitter/nvim-treesitter
+- nvim-telescope/telescope.nvim
+- jose-elias-alvarez/null-ls.nvim
+- neovim/nvim-lspconfig
+- nvim-tree/nvim-tree.lua
+- akinsho/bufferline.nvim
+
+And many more, checkout the repo if you're interested.
+
 ## VSCode Extensions
 
 Settings can be found in the [`./vscode/settings.json`](./vscode/settings.json) file.

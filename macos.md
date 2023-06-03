@@ -38,6 +38,8 @@ npm install --global yarn
 
 ### Cheat
 
+I don't really use this, but could be usefull.
+
 Install:
 
 ```sh
